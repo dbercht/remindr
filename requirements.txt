@@ -1,0 +1,6 @@
+Fabric==1.8.1
+#  so fab doesn't break
+paramiko==1.10
+ecdsa
+tornado==4.3
+schematics==1.1
